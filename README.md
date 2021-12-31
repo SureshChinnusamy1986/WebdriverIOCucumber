@@ -1,5 +1,5 @@
 # BasicWebdriverIOCucumber
-Pre setup:
+#Pre setup:
 
 node Js should be installed 
 To check: npm -v
