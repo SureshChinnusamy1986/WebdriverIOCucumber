@@ -1,5 +1,5 @@
 # BasicWebdriverIOCucumber
-#Pre setup:
+**Pre setup:**
 
 node Js should be installed 
 To check: npm -v
@@ -10,7 +10,8 @@ To check : node -v
 typescript is recommended
 npm install -g typescript
 
-Install and run 
+**Install and run **
+
 1. mkdir<foldername> and cd to the folder
 2. npm init
 3. npm -i --save-dev @wdio/cli
